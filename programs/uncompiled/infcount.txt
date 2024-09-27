@@ -1,0 +1,6 @@
+-START  |
+---OOOO-|
+---OO-OO|
+----O-OO|
+---OOO-O|
+----OO-O|
