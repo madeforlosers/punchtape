@@ -1,0 +1,18 @@
+PROG    |
+COUNT   |
+        |
+-START  |
+---O-OOO|
+-OO-O---|
+-OO--O-O|
+-OO-OO--|
+-OO-OO--|
+-OO-OOOO|
+--O-----|
+-OOO-OOO|
+-OO-OOOO|
+-OOO--O-|
+-OO-OO--|
+-OO--O--|
+---OO---|
+----O-OO|

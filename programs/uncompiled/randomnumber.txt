@@ -1,0 +1,6 @@
+PROG    |
+RANDOM  |
+        |
+-START  |
+---OO--O|
+----O-OO|
