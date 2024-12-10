@@ -31,7 +31,7 @@ function returnError(error){
   process.exit(1);
 }
 
-let maxCom = 32;
+let maxCom = 33;
 let holster = [];
 let holsterPos = 0;
 let skipNext = false;
@@ -192,5 +192,8 @@ for(proginc = 0; proginc < full_e.length; proginc++){
   }
   if(command == 32){ //100000 
     process.stdout.write(holster[holsterPos].toString());
+  }
+  if(command == 33){ //100001
+    process.stdout.write(String.fromCharCode(holster[holsterPos]));
   }
 }
